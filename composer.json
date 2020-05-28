@@ -1,0 +1,13 @@
+{
+  "name": "quetzal19/file-storage",
+  "license": "MIT",
+  "version": "0.1.0",
+  "type": "symfony-bundle",
+  "description": "Bundle for storing files in applications",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Quetzal19\\FileStorageBundle\\": "src/bundle/"
+    }
+  }
+}
