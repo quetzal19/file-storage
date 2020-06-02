@@ -1,0 +1,2 @@
+parameters:
+    quetzal19_file_storage.file_store_path: 'files/'

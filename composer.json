@@ -7,7 +7,10 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Quetzal19\\FileStorageBundle\\": "src/bundle/"
+      "Quetzal19\\FileStorageBundle\\": "/"
     }
+  },
+  "require": {
+    "ext-imagick": "*"
   }
 }
